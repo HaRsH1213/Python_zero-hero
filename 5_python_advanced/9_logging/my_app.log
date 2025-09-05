@@ -1,0 +1,9 @@
+2025-08-07 14:56:12,077 - my_logger - INFO - This is a info message from my_logger
+2025-08-07 14:56:12,077 - my_logger - WARNING - This is a warning message from my_looger
+2025-08-07 14:56:12,077 - my_logger - ERROR - This is an error message from my_logger
+2025-08-07 14:56:12,077 - payment_processor - CRITICAL - This is a critical message from my_logger
+2025-08-07 14:56:12,077 - payment_processor - CRITICAL - payment failed
+2025-08-07 14:56:12,077 - customer_inquiry_processor - CRITICAL - This is a critical message from my_logger
+2025-08-07 14:56:12,077 - customer_inquiry_processor - CRITICAL - This is a critical message from my_logger
+2025-08-07 14:56:12,077 - customer_inquiry_processor - CRITICAL - This is a critical message from my_logger
+2025-08-07 14:56:12,077 - payment_processor - CRITICAL - This is a critical message from my_logger

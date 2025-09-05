@@ -1,0 +1,16 @@
+INFO:root:User Harsh Chauhan logged in 
+INFO:root:Data processed: good_data
+INFO:root:User Harsh Chauhan logged out
+2025-08-07 14:24:51,547 - INFO - User Harsh Chauhan logged in 
+2025-08-07 14:24:51,548 - INFO - Data processed: good_data
+2025-08-07 14:24:51,548 - INFO - User Harsh Chauhan logged out
+2025-08-07 14:25:41,812 - INFO - User Harsh Chauhan logged in 
+2025-08-07 14:25:41,812 - ERROR - Error processing data: Invalid data
+Traceback (most recent call last):
+  File "C:\Code\5_python_advanced\9_logging\logging_2.py", line 19, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2025-08-07 14:25:41,817 - INFO - User Harsh Chauhan logged out
+2025-08-07 14:26:35,423 - INFO - User Harsh Chauhan logged in 
+2025-08-07 14:26:35,423 - ERROR - Error processing data: Invalid data
+2025-08-07 14:26:35,424 - INFO - User Harsh Chauhan logged out
